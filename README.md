@@ -10,8 +10,8 @@ Ref: https://github.com/delip/PyTorchNLPBook
 ## Environments
 
 ```shell
-    # Use conda, first build a conda environment called 'code_practice'
-    make
+# Use conda, first build a conda environment called 'code_practice'
+make
 ```
 
 ## Table of Examples
